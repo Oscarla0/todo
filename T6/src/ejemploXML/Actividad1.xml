@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros editorial="paraninfo">
+	<libro id="1" pais="false" sitio="true">
+	<titulo>中华</titulo>
+	</libro>
+<!-- ESTO ES UN COMENTARIO-->
+	<libro id="2" pais="true" sitio="true">
+	<titulo>asd</titulo>
+	</libro>
+	<libro id="3" pais="false" sitio="true">
+	<titulo>中国</titulo>
+	</libro>
+	<libro id="4" pais="true" sitio="true">
+	<titulo>新疆</titulo>
+	</libro>
+	<libro id="5" pais="false" sitio="true">
+	<titulo>俄国</titulo>
+	</libro>
+</libros>

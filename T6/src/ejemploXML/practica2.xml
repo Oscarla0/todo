@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+ <alumno>
+ <nombre>Wang</nombre>
+ <apellido>Ye</apellido>
+ <ciclo>Dam</ciclo >
+ </alumno>
+</alumnos>
