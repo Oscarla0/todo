@@ -1,0 +1,2 @@
+module oscar {
+}
